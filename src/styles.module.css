@@ -1,0 +1,8 @@
+.container {
+    margin: auto;
+    width: 50%;
+    border: 1px solid olivedrab;
+    background-color: olive;
+    padding: 10px;
+}
+
